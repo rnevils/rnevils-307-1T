@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class multints {
 
     public static void main(String[] args) {
         int x= 2;
